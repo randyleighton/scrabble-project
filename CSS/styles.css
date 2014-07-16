@@ -1,0 +1,17 @@
+h1 {
+    font-style:italic;
+    font-weight:bolder; 
+    color: #428bca;
+}
+
+h2, #result{
+    font-style:italic;
+    font-weight:bolder; 
+    color: #428bca;
+}
+
+
+#sub-but {
+    margin: 1em 1em;
+}
+
